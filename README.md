@@ -1,1 +1,2 @@
+For this task I chose to implement a DQN inspired algorithm, that works identically to the one described in paper, except it uses numerical observation data instead of vectorized pixel data. Overall it still demonstrates the main idea clearly.
 Episode length/return/return avg are all climbing up very steeply, suggesting that the algorithm is learning to keep the game going longer and longer and accumulate more and more reward as it trains more. This proves that my DRL algorithm is functional and effecient, and overall I am very glad.
