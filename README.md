@@ -1,0 +1,1 @@
+Episode length/return/return avg are all climbing up very steeply, suggesting that the algorithm is learning to keep the game going longer and longer and accumulate more and more reward as it trains more. This proves that my DRL algorithm is functional and effecient, and overall I am very glad.
